@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 Abderrahim SOUBAI-ELIDRISSI full stack JavaScript developer. I'm very interested in web Technologies & cloud computing & problem solving.
 
-I'm CTO @ [Geekhub](https://geekhub.ma)
+I'm CTO @ [Geekhub](https://geekhub.ma) working on Cloud & IoT projects 
 
-Facebook developer cricle co-lead Marrakech
+Co-lead @ Facebook developer cricle Marrakech
 
 For business inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/soubai)
 
-Currently I'm working for PULSE.digital as a Technical lead.
+Currently I'm working for PULSE.digital as a Technical lead & Cloud architect.
+
+### My stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbderrahimSoubaiElidrissi&show_icons=true)
