@@ -24,5 +24,7 @@ For business inquiries feel free to get in touch with me on [Linkedin](https://l
 
 Currently I'm working for PULSE.digital as a Technical lead & Cloud architect.
 
-### My stats
+### My stats & badges 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbderrahimSoubaiElidrissi&show_icons=true)
+
+<a href="https://stackoverflow.com/users/3151567/abderrahim-soubai-elidrissi"><img src="https://stackoverflow.com/users/flair/3151567.png" width="208" height="58" alt="profile for Abderrahim Soubai Elidrissi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abderrahim Soubai Elidrissi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
