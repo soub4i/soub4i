@@ -4,8 +4,6 @@
 
 Abderrahim SOUBAI-ELIDRISSI full stack JavaScript developer. I'm very interested in web Technologies & cloud computing & problem solving.
 
-I'm CTO @ [Geekhub](https://geekhub.ma) working on Cloud & IoT projects 
-
 Co-lead @ Facebook developer cricle Marrakech
 
 For business inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/soubai)
