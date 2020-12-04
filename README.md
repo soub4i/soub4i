@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=AbderrahimSoubaiElidrissi)
+![](https://img.shields.io/twitter/follow/soub4i?style=social)
+![](https://img.shields.io/github/followers/AbderrahimSoubaiElidrissi?style=social)
 
 Abderrahim SOUBAI-ELIDRISSI full stack JavaScript developer. I'm very interested in web Technologies & cloud computing & problem solving.
 
