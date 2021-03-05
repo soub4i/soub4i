@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AbderrahimSoubaiElidrissi)
 ![](https://img.shields.io/twitter/follow/soub4i?style=social)
-![](https://img.shields.io/github/followers/AbderrahimSoubaiElidrissi?style=social)
 
 Abderrahim SOUBAI-ELIDRISSI full stack JavaScript developer. I'm very interested in web Technologies & cloud computing & problem solving.
 
@@ -10,7 +9,6 @@ Co-lead @ Facebook developer cricle Marrakech
 
 For business inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/soubai)
 
-Currently I'm working for PULSE.digital as a Technical lead & Cloud architect.
 
 ### My stats & badges 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbderrahimSoubaiElidrissi&show_icons=true&count_private=true)
