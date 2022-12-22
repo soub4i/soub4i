@@ -7,7 +7,7 @@ I'm Abderrahim, Software engineer & Cloud architect; Interested in web technolog
 
 ☁️ Host Cloud podcast: https://s7aba.ma
 
-👥 Co-lead @ Facebook developer cricle Marrakech
+~~👥 Co-lead @ Facebook developer cricle Marrakech~~
 
 For business inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/soubai)
 
