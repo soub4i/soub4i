@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=AbderrahimSoubaiElidrissi)
 ![](https://img.shields.io/twitter/follow/soub4i?style=social)
 
-I'm Abderrahim, Software engineer & Cloud architect; Interested in web technologies & cloud computing & distributed systems.
+I'm Abderrahim, a Software engineer; Interested in web technologies & cloud computing & distributed systems.
 
 ☁️ Host Cloud podcast: https://s7aba.ma
 
