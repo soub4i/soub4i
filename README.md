@@ -16,10 +16,10 @@ I am a **Senior Platform Engineer & DevOps Specialist** currently based in Dubli
 
 I write about technology, distributed systems, and the intersection of culture and algorithms. Here are some of my recent posts:
 
-* [**The Rise of Pseudo-Intellectuals in the Age of Algorithms**](https://soubai.me/post/the-rise-of-pseudo-intellectuals-in-the-age-of-algorithms/) – *A look at how algorithms prioritize speed over accuracy.*
-* [**Build an IoT SMS Gateway using ESP32 and Cloudflare Workers**](https://soubai.me/post/build-an-iot-sms-gateway-using-esp32-and-cloudflare-workers/) – *A deep dive into IoT, Rust, Go, and serverless edge computing.*
-* [**In the Joy of Less**](https://soubai.me/post/in-the-joy-of-less/) – *My personal take on minimalism and its impact on engineering and life.*
-* [**Design Patterns in TypeScript Made Easy**](https://soubai.me/post/design-patterns-in-javascript-made-easy-part-ii/) – *Simplifying creational patterns for modern web development.*
+* [**The Rise of Pseudo-Intellectuals in the Age of Algorithms**](https://soubai.me/post/p/) – *A look at how algorithms prioritize speed over accuracy.*
+* [**Build an IoT SMS Gateway using ESP32 and Cloudflare Workers**](https://soubai.me/post/build-iot-sms-gateway-esp32-cloudflare) – *A deep dive into IoT, Rust, Go, and serverless edge computing.*
+* [**In the Joy of Less**](https://soubai.me/post/minimalism/) – *My personal take on minimalism and its impact on engineering and life.*
+* [**Brakingdown etcd**](https://soubai.me/post/brakingdown-etcd/) – *Just another blog post to demystify the famous etcd.*
 
 ---
 
