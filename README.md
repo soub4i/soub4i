@@ -27,7 +27,7 @@ I write about technology, distributed systems, and the intersection of culture a
 
 - **Languages:** Go, TypeScript/JS, Python, Java, Rust.
 - **Cloud/Infra:** Kubernetes (CKA/CKAD), AWS, Docker, Terraform, ArgoCD.
-- **Backend:** Node.js, Spring Boot, PostgreSQL, Redis, Elasticsearch.
+- **Backend:** Node.js, PostgreSQL, Redis, Elasticsearch.
 - **Frontend:** React, Next.js, Tailwind CSS.
 
 ---
